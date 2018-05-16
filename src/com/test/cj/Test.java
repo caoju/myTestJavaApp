@@ -6,4 +6,7 @@ public class Test {
 
     private int age;
 
+    public int getAge() {
+        return age;
+    }
 }
