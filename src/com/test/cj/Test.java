@@ -6,7 +6,5 @@ public class Test {
 
     private int age;
 
-    public int getAge() {
-        return age;
-    }
+    private int bb;
 }
